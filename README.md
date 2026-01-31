@@ -103,6 +103,11 @@ AVN Institute of Engineering & Technology
 
 🔗 LinkedIn: www.linkedin.com/in/ganesh-uppananthala-59061b2b8
 
+## 📜 License
+This project is proprietary and intended for academic and personal use only.  
+Unauthorized copying, modification, or distribution of this project is not permitted without the author’s consent.
+
+
 
 
 
