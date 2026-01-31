@@ -1,6 +1,6 @@
 # my-mini-project
 Designed and implemented an autonomous delivery robot using Arduino UNO with password-based authentication for secure package access. Integrated a 4×4 keypad and LCD display for user verification, L298N motor driver for DC motor control, and a servo motor for electronic locking. Included ESP32-CAM for real-time monitoring. 
-# Autonomous Delivery Robot with Password-Based Authentication 🤖🔐
+# Autonomous Delivery Robot with Password-Based Authentication 🤖
 
 ## 📌 Project Overview
 This project focuses on the design and implementation of an **Autonomous Delivery Robot with Password-Based Authentication** using embedded system principles. The system ensures **secure delivery of items** by allowing access only to authorized users through a password entered via a keypad. The robot integrates motor control, authentication logic, and user feedback mechanisms to achieve controlled and reliable delivery.
@@ -100,6 +100,7 @@ AVN Institute of Engineering & Technology
 
 📧 Email:uganeshuppananthala@gmail.com  
 🔗 GitHub: https://github.com/GaneshUppananthala2005
+
 🔗 LinkedIn: www.linkedin.com/in/ganesh-uppananthala-59061b2b8
 
 
