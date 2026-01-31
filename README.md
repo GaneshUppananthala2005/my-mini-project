@@ -88,9 +88,8 @@ This project has been published as a research paper in a conference/journal.
 **Title:** Autonomous Delivery Robot with Password-Based Authentication  
 **Authors:** U. Ganesh.  
 **Conference/Journal:** MANGALMAY INSTITUTE OF MANAGEMENT & TECHNOLOGY
-Plot No. 8, Knowledge Park-II, Greater Noida (UP) -201310
-## International Conference
-## on
+Plot No. 8, Knowledge Park-II, Greater Noida (UP) -201310(MIMT)
+**International Conference on**
 ### Ethical AI: Balancing Innovation and Responsibility (ICEAIBIR-2025)  
 **Year:** 07/06/2025  
 
