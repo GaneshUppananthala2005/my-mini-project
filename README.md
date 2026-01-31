@@ -82,6 +82,18 @@ The complete mini-project report submitted to **AVN Institute of Engineering & T
 - P. Nithin Reddy             - 225U1A4A1
 - P. Anil                     - 225U1A095
 
+## 📄 Paper Publication
+This project has been published as a research paper in a conference/journal.
+
+**Title:** Autonomous Delivery Robot with Password-Based Authentication  
+**Authors:** U. Ganesh.  
+**Conference/Journal:** MANGALMAY INSTITUTE OF MANAGEMENT & TECHNOLOGY
+Plot No. 8, Knowledge Park-II, Greater Noida (UP) -201310
+## International Conference
+## on
+### Ethical AI: Balancing Innovation and Responsibility (ICEAIBIR-2025)  
+**Year:** 07/06/2025  
+
 ## 🏫 Institution
 AVN Institute of Engineering & Technology  
 Department of Electronics & Communication Engineering  
