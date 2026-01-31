@@ -77,10 +77,10 @@ The complete mini-project report submitted to **AVN Institute of Engineering & T
 - Enhanced security using multi-factor authentication  
 
 ## 👨‍💻 Team Members
-- Uppananthala Ganesh (lead)  
-- M. Rashmi Priya  
-- P. Nithin Reddy  
-- P. Anil  
+- Uppananthala Ganesh (lead)  - 235U5A0412
+- M. Rashmi Priya             - 235U5A0410
+- P. Nithin Reddy             - 225U1A4A1
+- P. Anil                     - 225U1A095
 
 ## 🏫 Institution
 AVN Institute of Engineering & Technology  
