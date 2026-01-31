@@ -1,0 +1,27 @@
+#ifndef PIN_CONFIG_H
+#define PIN_CONFIG_H
+
+// Motor Driver L298N
+#define ENA 5
+#define IN1 6
+#define IN2 7
+#define ENB 9
+#define IN3 10
+#define IN4 11
+
+// Servo
+#define SERVO_PIN 3
+
+// LCD (16x2)
+#define RS 12
+#define EN 13
+#define D4 A0
+#define D5 A1
+#define D6 A2
+#define D7 A3
+
+// Keypad
+#define ROWS 4
+#define COLS 4
+
+#endif
